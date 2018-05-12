@@ -1,0 +1,32 @@
+_repo: London-Before-the-Conquest_40271
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40271-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lethaby, W. R. (William Richard)
+    alias: Lethaby, William Richard
+    birthdate: 1857
+    deathdate: 1931
+    gutenberg_agent_id: '25114'
+    url: http://www.gutenberg.org/2009/agents/25114
+    wikipedia: http://en.wikipedia.org/wiki/William_Lethaby
+description: I have for years been interested in the decipherment of the great palimpsest
+  of London, and, in trying to realise for myself what the city was like a thousand
+  years ago, writes the author in his introduction to this fascinating literary feat
+  of archeological excavation and reconstruction, first published in 1902.
+gutenberg_issued: '2012-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40271'
+  lccn: '03010260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- History -- To 1500'
+- !lcc 'DA'
+title: London Before the Conquest
+url: http://www.gutenberg.org/ebooks/40271
